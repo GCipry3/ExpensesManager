@@ -1,6 +1,6 @@
 # 🏡 Family Budget Application
 
-This application is designed to manage a family budget. It has a MariaDB database that stores and encrypts family members' passwords through an API call. The backend is built with Kotlin Spring Boot, and the frontend is built with Python Flask.
+This application is designed to manage a family budget. It has a MariaDB database that stores and encrypts family members' passwords through an API call. The backend is built with **Kotlin Spring Boot**, and the frontend is built with **Python Flask**.
 
 ## 🌟 Features
 
